@@ -1,4 +1,4 @@
-# Welcome to MyProfile/MyBrand Repository!
+# Welcome to MyProfile Repository!
 
 ### Overview
 
