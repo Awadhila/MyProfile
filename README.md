@@ -1,6 +1,5 @@
-# Welcome to MyProfile/MyBrand GitHub Repository!
+# Welcome to MyProfile/MyBrand Repository!
 
-## MyProfile/MyBrand
 ### Overview
 
 MyProfile/MyBrand is a single landing page built using React, Tailwind CSS, Framer Motion, and Next.js. This versatile website is designed to showcase the work, skills, and information of professionals, including trainers, models, developers, entities, and companies. Whether you are an individual looking to display your portfolio or an organization wanting to present your brand, MyProfile/MyBrand offers a sleek and engaging user interface to captivate your audience.
